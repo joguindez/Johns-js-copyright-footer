@@ -1,0 +1,25 @@
+{
+  "name": "johns-js-copyright-footer",
+  "version": "0.1.0",
+  "description": "Module allows a dynamic footer to be generated for JS applications, and updated year and name",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joguindez/Johns-js-copyright-footer.git"
+  },
+  "keywords": [
+    "footer"
+  ],
+  "author": "Joguindez <hernandez.guille.jon@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joguindez/Johns-js-copyright-footer/issues"
+  },
+  "homepage": "https://github.com/joguindez/Johns-js-copyright-footer#readme",
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
+}
